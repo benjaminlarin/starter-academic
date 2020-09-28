@@ -20,7 +20,7 @@ interests:
   - Housing
   - Wealth Inequality
 social:
-  - icon: benjamin.larin@unisg.ch
+  - icon: mail
     icon_pack: fas
     link: "#contact"
   - icon: twitter
@@ -40,7 +40,7 @@ education:
     - course: BSc in International Economics
       institution: University of Tübingen
       year: 2011
-email: ""
+email: benjamin.larin@unisg.ch
 user_groups:
   - Researchers
   - Visitors
