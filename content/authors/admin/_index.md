@@ -15,7 +15,7 @@ avatar_filename: dsc_3006_smaller.jpg
 bio: ""
 interests:
   - Macroeconomics
-  - Asset Price Bubbles
+  - Asset Prices
   - Fiscal Policy
   - Housing
   - Wealth Inequality
