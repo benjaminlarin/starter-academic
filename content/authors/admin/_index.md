@@ -11,7 +11,7 @@ authors:
   - admin
 title: Benjamin Larin
 role: Postdoc in Economics
-avatar_filename: dsc_3006_smaller.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Macroeconomics
