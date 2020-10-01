@@ -184,7 +184,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+  shape = "circle"
 
 # Configuration of publication pages.
 [publications]
@@ -267,7 +267,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 1
   api_key = ""
-  zoom = 5
+  zoom = 13
 
 ############################
 ## Marketing
