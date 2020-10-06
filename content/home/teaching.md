@@ -1,76 +1,44 @@
-+++
-# A teaching section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+---
+title: Teaching
+summary:
+date: 2020-10-06
+weight: 120
 
-title = "Teaching"
-subtitle = ""
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-[content]
-  # Page type to display. E.g. project.
-  page_type = "project"
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+#### Graduate Level (Master, in English)
 
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+* **Advanced Macroeconomics**, preparation course, Leipzig University
 
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+    2019, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss-2018.html))
 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+* **Advanced Macroeconomics**, exercise class, Leipzig University
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+    2018, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss-20180.html), [teaching evaluation](files/Evaluation_AM_2018.pdf))
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
+    2017, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss20171.html))
 
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+    2016, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss120000.html))
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+#### Undergraduate Level (Bachelor, in German)
 
-  # Background color.
-  # color = "navy"
+* **Macroeconomics**, exercise class, Leipzig University
 
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+    2015/16, winter term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ws1112000.html))
 
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    2014/15, winter term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/ws1415/makro-ue.html))
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
+    2012/13, winter term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ws111200.html))
 
-[advanced]
- # Custom CSS.
- css_style = ""
+* **Microeconomics**, exercise class, Leipzig University
 
- # CSS class.
- css_class = ""
-+++
+    2013, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/mikro/lehre-teaching/bachelor-wiwi/mikrooekonomikmicroeconomics.html))

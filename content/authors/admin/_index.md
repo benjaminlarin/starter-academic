@@ -47,4 +47,4 @@ user_groups:
 ---
 I am a post-doctoral researcher at the University of St.Gallen.
 
-Full CV.
+Full {{% staticref "files/CV_BL_homepage.pdf" %}}CV{{% /staticref %}}.
