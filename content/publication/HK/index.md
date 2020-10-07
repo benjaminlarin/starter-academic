@@ -39,8 +39,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Latest Version
-  url: files/HK.pdf
+- name: Latest Version (coming soon)
+  #url: files/HK.pdf
 - name: CESifo (earlier version)
   url: "http://www.cesifo-group.de/de/w/36ywzUubi"
 - name: IMF (earlier version)
