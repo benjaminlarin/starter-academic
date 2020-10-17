@@ -19,15 +19,15 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: " The housing wealth-to-income ratio has been increasing in most developed economies since the 1950s. In this paper we provide a novel theory to explain this long-term pattern.
-We show analytically that house prices grow in the long term if i) the housing sector is more land intensive than the non-housing sector, or ii) technological progress in the construction sector is weaker than in the non-housing sector.
-The model is calibrated separately to the US, the UK, France, and Germany.
-Quantitatively, both channels are equally relevant for rising house prices.
-We then study the dynamics in the housing wealth-to-income ratio by computing transitions.
-The model replicates 80, 67, and 76 percent of the observed increase in the housing wealth-to-income ratio of the UK, France, and Germany, respectively.
-We even slightly over-predict the increase in the US housing wealth-to-income ratio by 35 percentage points.
-The key for replicating the data is the explicit differentiation between residential land – a non-reproducible factor – and residential structure – a reproducible factor.
-"
+abstract: "The housing wealth-to-income ratio has been increasing in most developed economies since the 1950s.
+  In this paper we provide a novel theory to explain this long-term pattern.
+  We show analytically that house prices grow in the long term if i) the housing sector is more land-intensive than the non-housing sector, or ii) technological progress in the construction sector is weaker than in the non-housing sector.
+  The model is calibrated separately to the US, UK, France, and Germany.
+  Quantitatively, both channels are equally relevant for rising house prices.
+  We then study the dynamics in the housing wealth-to-income ratio by computing transitions.
+  The model replicates on average 89 percent of the observed increase in the housing wealth-to-income ratio.
+  The key for replicating the data is the explicit differentiation between residential land -- a non-reproducible factor -- and residential structure -- a reproducible factor.
+  "
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -39,8 +39,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Latest Version (coming soon)
-  #url: files/HK.pdf
+- name: Latest Version
+  url: files/HK.pdf
 - name: CESifo (earlier version)
   url: "http://www.cesifo-group.de/de/w/36ywzUubi"
 - name: IMF (earlier version)
