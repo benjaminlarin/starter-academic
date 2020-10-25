@@ -16,7 +16,7 @@ publishDate: 2020-10-06T11:24:54+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "<ins>***submitted***</ins>"
 publication_short: ""
 
 abstract: "The housing wealth-to-income ratio has been increasing in most developed economies since the 1950s.
@@ -26,7 +26,7 @@ abstract: "The housing wealth-to-income ratio has been increasing in most develo
   Quantitatively, both channels are equally relevant for rising house prices.
   We then study the dynamics in the housing wealth-to-income ratio by computing transitions.
   The model replicates on average 89 percent of the observed increase in the housing wealth-to-income ratio.
-  The key for replicating the data is the explicit differentiation between residential land -- a non-reproducible factor -- and residential structure -- a reproducible factor.
+  The key for replicating the data is the differentiation between residential land as a non-reproducible factor and residential structure as a reproducible factor.
   "
 
 # Summary. An optional shortened abstract.

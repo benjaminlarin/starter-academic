@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bubble-Driven Business Cycles"
-authors: [Benjamin Larin]
-date: '2020-10-06'
-doi: ""
+title: "Housing and inequality: Renters vs Owners"
+authors: ["Benjamin Larin"]
+date: '2020-10'
+doi: "" # https://doi.org/10.1515/pwp-2014-0005
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-06T11:24:58+02:00
+publishDate: 2020-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,30 +19,20 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Pronounced and persistent fluctuations in aggregate wealth and real activity - boom-bust episodes - have become more prevalent in recent history.
-In this paper I provide a quantitative explanation for such boom-bust episodes that is based on rational bubbles.
-To this end, I set up an overlapping generations model with many generations, financial frictions, aggregate uncertainty and rational bubbles.
-The calibrated model generates empirically plausible bubble-driven business cycles.
-I decompose the macroeconomic effect of rational bubbles into several different channels and use the calibrated model to asses their relative strength.
-The decomposition shows that one particular channel that operates through the creation of bubbles is necessary for plausible bubbles to exist.
-I then apply the model to replicate the observed series of real output and aggregate wealth during the two recent US boom-bust episodes between 1990 and 2010.
-By decomposing the model-implied series for aggregate wealth I show that on average one third of the deviations of aggregate wealth from its trend can be explained by fluctuations in an aggregate rational bubble."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["JMP"]
+tags: ["work_in_progress"]
 categories: []
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Latest Version
-  url: files/BBC.pdf
-- name: Slides
-  url: files/BBC_slides.pdf
-
+#links:
+#- name: CESifo
+#  url: "https://www.cesifo.org/en/publikationen/2014/working-paper/fiscal-autonomy-and-fiscal-sustainability-subnational-taxation-and"
 
 url_pdf:
 url_code:
