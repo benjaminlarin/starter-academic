@@ -16,8 +16,9 @@ bio: ""
 interests:
   - Macroeconomics
   - Asset Prices
-  - Fiscal Policy
+  - Household Finance
   - Housing
+  - Public Finance
   - Wealth Inequality
 social:
   - icon: envelope
@@ -32,7 +33,7 @@ social:
 education:
   courses:
     - course: PhD in Economics
-      institution: Leipzig University
+      institution: Leipzig University | Central-German Doctoral Program Economics (CGDE)
       year: 2019
     - course: MSc in Economics
       institution: Leipzig University
@@ -45,6 +46,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a post-doctoral researcher at the University of St.Gallen.
+I am an International Postdoc Fellow at the University of St.Gallen.
+
+I am on the job market 2020-21 and will be available for interviews at the EJM and the ASSA virtual meetings.
 
 Full {{% staticref "files/CV_BL_homepage.pdf" %}}CV{{% /staticref %}}.
