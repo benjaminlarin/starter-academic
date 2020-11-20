@@ -19,14 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Pronounced and persistent fluctuations in aggregate wealth and real activity - boom-bust episodes - have become more prevalent in recent history.
-In this paper I provide a quantitative explanation for such boom-bust episodes that is based on rational bubbles.
-To this end, I set up an overlapping generations model with many generations, financial frictions, aggregate uncertainty and rational bubbles.
-The calibrated model generates empirically plausible bubble-driven business cycles.
-I decompose the macroeconomic effect of rational bubbles into several different channels and use the calibrated model to asses their relative strength.
-The decomposition shows that one particular channel that operates through the creation of bubbles is necessary for plausible bubbles to exist.
-I then apply the model to replicate the observed series of real output and aggregate wealth during the two recent US boom-bust episodes between 1990 and 2010.
-By decomposing the model-implied series for aggregate wealth I show that on average one third of the deviations of aggregate wealth from its trend can be explained by fluctuations in an aggregate rational bubble."
+abstract: "Pronounced and persistent fluctuations in aggregate wealth and real activity - boom-bust episodes - have become more prevalent in recent history. In this paper, I provide a quantitative explanation for such boom-bust episodes based on rational bubbles. To this end, I set up an overlapping generations model with many generations, financial frictions, aggregate uncertainty, and rational bubbles. The calibrated model generates empirically plausible bubble-driven business cycles. I decompose the macroeconomic effect of rational bubbles into three different channels. The bubble increases output through the bubble-creation and liquidity channel, while the bubble decreases output through the crowding-out channel. I use the calibrated model to assess the relative strength of these three channels. The bubble-creation channel is necessary for plausible bubbles to exist because the liquidity channel is quantitatively small. I then apply the model to replicate the observed series of real output and aggregate wealth during the two recent US boom-bust episodes between 1990 and 2010. By decomposing the model-implied series for aggregate wealth into a fundamental and bubble component, I show that on average one-third of the deviations of aggregate wealth from its trend are due to dynamics in an aggregate bubble."
 
 # Summary. An optional shortened abstract.
 summary: ""
