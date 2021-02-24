@@ -20,13 +20,16 @@ publication: "<ins>***submitted***</ins>"
 publication_short: ""
 
 abstract: "The housing wealth-to-income ratio has been increasing in most developed economies since the 1950s.
-  In this paper we provide a novel theory to explain this long-term pattern.
-  We show analytically that house prices grow in the long term if i) the housing sector is more land-intensive than the non-housing sector, or ii) technological progress in the construction sector is weaker than in the non-housing sector.
-  The model is calibrated separately to the US, UK, France, and Germany.
-  Quantitatively, both channels are equally relevant for rising house prices.
-  We then study the dynamics in the housing wealth-to-income ratio by computing transitions.
-  The model replicates on average 89 percent of the observed increase in the housing wealth-to-income ratio.
-  The key for replicating the data is the differentiation between residential land as a non-reproducible factor and residential structure as a reproducible factor.
+    We provide a novel theory to explain this long-term pattern.
+    We show analytically that house prices grow in the steady state if i) the housing sector is more land-intensive than the non-housing sector, or ii) technological progress in the construction sector is weaker than in the non-housing sector.
+    Despite growing house prices and housing wealth, the housing wealth-to-income ratio is constant in steady state.
+    We hence study the dynamics in the housing wealth-to-income ratio by computing transitions.
+    The model is calibrated separately to the US, UK, France, and Germany.
+    On average, we replicate 89 percent of the observed increase in the housing wealth-to-income ratio.
+    The key for replicating the data is the differentiation between residential land as a non-reproducible factor and residential structure as a reproducible factor.
+    The transition process from the calibrated model points to two driving forces of an increasing housing wealth-to-income ratio:
+    i) A long-lasting construction boom that brought about a pronounced build-up in the stock of structures and
+    ii) an increase in the demand for residential land that resulted in surging residential land prices.
   "
 
 # Summary. An optional shortened abstract.

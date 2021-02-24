@@ -47,7 +47,6 @@ user_groups:
   - Visitors
 ---
 I am an International Postdoc Fellow at the University of St.Gallen.
-
-I am on the job market 2020-21 and will be available for interviews at the EJM and the ASSA virtual meetings.
+<!-- I am on the job market 2020-21 and will be available for interviews at the EJM and the ASSA virtual meetings. -->
 
 Full {{% staticref "files/CV_BL_homepage.pdf" %}}CV{{% /staticref %}}.
