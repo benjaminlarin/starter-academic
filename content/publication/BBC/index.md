@@ -24,7 +24,7 @@ abstract: "Pronounced and persistent fluctuations in aggregate wealth and real a
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["JMP"]
+tags: ["working_paper"]
 categories: []
 featured: false
 
