@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Demographic Change, Household Portfolio, and Rates of Return"
+title: "The Marital Wealth Gap: Micro Causes and Macro Consequences"
 authors: ["Winfried Koeniger, Benjamin Larin, Arnau Valladares-Esteban"]
 date: '2020-10'
 doi: "" # https://doi.org/10.1515/pwp-2014-0005
