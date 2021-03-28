@@ -16,7 +16,7 @@ publishDate: 2020-01-10T10:58:05+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<ins>***R&R at the Journal of Economic Theory***</ins>"
+publication: "<ins>***accepted at the Journal of Economic Theory***</ins>"
 publication_short: ""
 
 abstract: "The trajectories of real housing rents and house prices have shown an upward sloping trend in most industrialized countries since WW2.
