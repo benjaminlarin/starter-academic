@@ -3,20 +3,20 @@
 
 title: "Distributional Consequences of Surging Housing Rents"
 authors: ["Volker Grossmann, Benjamin Larin, Hans Torben Löfflad, Thomas Steger"]
-date: '2021-01-10'
+date: '2021-04-06'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-10T10:58:05+02:00
+publishDate: 2021-04-04T10:58:05+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<ins>***accepted at the Journal of Economic Theory***</ins>"
+publication: "<ins>***Journal of Economic Theory***</ins>, accepted for publication"
 publication_short: ""
 
 abstract: "The trajectories of real housing rents and house prices have shown an upward sloping trend in most industrialized countries since WW2.
@@ -37,7 +37,7 @@ Lower housing rent growth drives most of the overall welfare gain, and Schwabe's
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["working_paper"]
+tags: ["publication"]
 categories: []
 featured: false
 
