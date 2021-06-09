@@ -16,23 +16,19 @@ publishDate: 2021-04-04T10:58:05+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<ins>***Journal of Economic Theory***</ins>, accepted for publication"
+publication: "<ins>***Journal of Economic Theory***</ins>, forthcoming"
 publication_short: ""
 
-abstract: "The trajectories of real housing rents and house prices have shown an upward sloping trend in most industrialized countries since WW2.
+abstract: "The trajectories of real housing rents and real house prices have shown an upward sloping trend in most
+industrialized countries since WW2.
 The burden of rising housing rents is likely to be distributed unequally because income-poor households devote a larger share of their consumption expenditures on housing than income-rich households.
-This inverse relation between income and the expenditure share of housing is labeled Schwabe's law.
-We analyze how the dynamics in housing rents affect household welfare, accounting for Schwabe's law and the endogeneity of housing rents in general equilibrium.
-Our model features non-homothetic preferences so that we can replicate Schwabe's law.
-Because a representative household exists, we can discuss the underlying mechanisms analytically.
-One of our main analytical results is that Schwabe's law considerably amplifies heterogeneous welfare effects that operate through housing rent changes.
-We then study how zoning deregulation affects household welfare in general equilibrium.
-Zoning deregulation triggers a temporarily slower growth in housing rents and house prices.
-The representative household experiences a welfare gain of 0.37 percent.
-At the micro-level, we show that this welfare effect is highly unequally distributed.
+This inverse relation between income and the expenditure share of housing is labeled Schwabe’s law.
+We analyze how the dynamics in housing rents affect household welfare, accounting for Schwabe’s law and the endogeneity of housing rents in general equilibrium.
+We show analytically that Schwabe’s law amplifies heterogeneous welfare effects that operate through housing rent changes.
+We then study how zoning deregulation affects household welfare in general equilibrium. Zoning deregulation triggers a temporarily slower growth in housing rents and house prices. The representative household experiences a welfare gain of 0.37 percent.
+This welfare effect is unequally distributed at the micro-level.
 The highest welfare gain amounts to 12.52 percent, while the highest welfare loss amounts to 1.63 percent.
-We study the different welfare channels analytically and quantify their relative strengths.
-Lower housing rent growth drives most of the overall welfare gain, and Schwabe's law is responsible for most of the variation of the welfare gain across households."
+Lower housing rent growth drives most of the overall welfare gain, and Schwabe’s law is responsible for most of the variation in the welfare gain across households."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -44,7 +40,9 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Latest Version
+- name: Published Version
+  url: "https://doi.org/10.1016/j.jet.2021.105275"
+- name: Ungated
   url: files/GLLS.pdf
 - name: CESifo
   url: "https://www.cesifo.org/en/publikationen/2019/working-paper/distributional-effects-surging-housing-costs-under-schwabes-law"
