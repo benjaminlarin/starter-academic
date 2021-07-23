@@ -48,6 +48,8 @@ links:
   url: "http://www.cesifo-group.de/de/w/36ywzUubi"
 - name: IMF (earlier version)
   url: "http://www.imf.org/en/Publications/WP/Issues/2017/03/30/Das-House-Kapital-A-Long-Term-Housing-Macro-Model-44779"
+- name: NEP-DGE Blog
+  url: "https://nepdge.wordpress.com/2021/06/29/das-house-kapital/"
 - name: VoxEU (earlier version)
   url: "http://voxeu.org/article/house-kapital-evolution-housing-wealth-1955-2100"
 - name: Slides
