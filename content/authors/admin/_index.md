@@ -26,7 +26,7 @@ social:
     link: mailto:benjamin.larin@ju.se  # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/benni__benjamin
+    link: https://twitter.com/benjamin_larin
   - icon: github
     icon_pack: fab
     link: https://github.com/benjaminlarin
