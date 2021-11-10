@@ -90,23 +90,23 @@ show_related = {}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "benjamin.larin@unisg.ch"
-phone = "+41 71 224 34 59"
+email = "benjamin.larin@ju.se"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "14 Varnbuelstrasse", city = "St. Gallen", region = "", postcode = "9000", country = "Switzerland", country_code = "CH"}
+address = {street = "Gjuterigatan 5", city = "Jönköping", region = "", postcode = "553 18", country = "Sweden", country_code = "SE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.430674", longitude = "9.374033"}
+coordinates = {latitude = "57.77883370711813", longitude = "14.164453129114532"}
 
 # Directions for visitors to locate you.
 directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Upon appointment vie email"]
+office_hours = ["Upon appointment via email"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

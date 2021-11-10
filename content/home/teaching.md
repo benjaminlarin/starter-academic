@@ -15,21 +15,13 @@ header:
   image: ""
 ---
 
-#### Graduate Level (Master, in English)
 
-* **Advanced Macroeconomics**, preparation course, Leipzig University
+#### Undergraduate Level (Bachelor)
 
-    2019, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss-2018.html))
+* **Macroeconomic Principles**, lecture and exercise class, Jönköping University
 
-* **Advanced Macroeconomics**, exercise class, Leipzig University
+    2022, spring term ([course page](https://ju.se/en/study-at-ju/courses.html?hidekurstillfalle=yes&courseCode=JMPG14))
 
-    2018, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss-20180.html), [teaching evaluation](files/Evaluation_AM_2018.pdf))
-
-    2017, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss20171.html))
-
-    2016, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss120000.html))
-
-#### Undergraduate Level (Bachelor, in German)
 
 * **Macroeconomics**, exercise class, Leipzig University
 
@@ -42,3 +34,18 @@ header:
 * **Microeconomics**, exercise class, Leipzig University
 
     2013, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/mikro/lehre-teaching/bachelor-wiwi/mikrooekonomikmicroeconomics.html))
+
+
+#### Graduate Level (Master)
+
+* **Advanced Macroeconomics**, preparation course, Leipzig University
+
+    2019, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss-2018.html))
+
+* **Advanced Macroeconomics**, exercise class, Leipzig University
+
+    2018, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss-20180.html), [teaching evaluation](files/Evaluation_AM_2018.pdf))
+
+    2017, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss20171.html))
+
+    2016, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss120000.html))

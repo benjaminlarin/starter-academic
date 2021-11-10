@@ -1,16 +1,16 @@
 ---
 organizations:
-  - name: University of St.Gallen
-    url: https://www.unisg.ch/
-  - name: Swiss Institute for Empirical Research
-    url: https://sew.unisg.ch/en
+  - name: Jönköping University
+    url: https://ju.se/en.html
+  - name: Jönköping International Business School
+    url: https://ju.se/en/about-us/jonkoping-international-business-school.html
   - name: Globalization of Real Estate Network
     url: https://www.curem.uzh.ch/de/forschung_und_publikationen/GREN/about.html
 superuser: true
 authors:
   - admin
 title: Benjamin Larin
-role: Postdoc in Economics
+role: Assistant Professor in Economics
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -23,7 +23,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:benjamin.larin@unisg.ch  # For a direct email link, use "mailto:test@example.org".
+    link: mailto:benjamin.larin@ju.se  # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/benni__benjamin
@@ -46,7 +46,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am an International Postdoc Fellow at the University of St.Gallen.
+I am an Assistant Professor in Economics at Jönköping University in Sweden.
 <!-- I am on the job market 2020-21 and will be available for interviews at the EJM and the ASSA virtual meetings. -->
 
 Full {{% staticref "files/CV.pdf" %}}CV{{% /staticref %}}.
