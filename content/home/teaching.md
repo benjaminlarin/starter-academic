@@ -18,10 +18,13 @@ header:
 
 #### Undergraduate Level (Bachelor)
 
+* **Intermediate Macroeconomic Theory**, lecture and exercise class, Jönköping University
+
+    2022, autumn term ([syllabus](files/syllabus_IMT_2022.pdf))
+
 * **Macroeconomic Principles**, lecture and exercise class, Jönköping University
 
-    2022, spring term ([course page](https://ju.se/en/study-at-ju/courses.html?hidekurstillfalle=yes&courseCode=JMPG14))
-
+    2022, spring term ([syllabus](files/syllabus_MP_2022.pdf), [evaluation](files/Evaluation_MP_2022.pdf))
 
 * **Macroeconomics**, exercise class, Leipzig University
 
