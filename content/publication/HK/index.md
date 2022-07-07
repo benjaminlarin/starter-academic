@@ -16,7 +16,7 @@ publishDate: 2020-10-06T11:24:54+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<ins>***submitted***</ins>"
+publication: "R&R at the <ins>***Journal of the European Economic Association***</ins>"
 publication_short: ""
 
 abstract: "The housing wealth-to-income ratio has been increasing in most developed economies since the 1950s.

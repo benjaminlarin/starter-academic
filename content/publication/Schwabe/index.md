@@ -16,7 +16,7 @@ publishDate: 2021-04-04T10:58:05+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<ins>***Journal of Economic Theory***</ins>, forthcoming"
+publication: "<ins>***Journal of Economic Theory***</ins>, Vol. 196"
 publication_short: ""
 
 abstract: "The trajectories of real housing rents and real house prices have shown an upward sloping trend in most
