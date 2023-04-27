@@ -20,9 +20,11 @@ header:
 
 * **Intermediate Macroeconomic Theory**, lecture and exercise class, Jönköping University
 
-    2022, autumn term ([syllabus](files/syllabus_IMT_2022.pdf))
+    2022, autumn term ([syllabus](files/syllabus_IMT_2022.pdf), [evaluation](files/Evaluation_IMT_2022.pdf))
 
 * **Macroeconomic Principles**, lecture and exercise class, Jönköping University
+
+    2023, spring term ([syllabus](files/syllabus_MP_2022.pdf), [evaluation](files/Evaluation_MP_2023.pdf))
 
     2022, spring term ([syllabus](files/syllabus_MP_2022.pdf), [evaluation](files/Evaluation_MP_2022.pdf))
 
