@@ -24,7 +24,7 @@ header:
 
 * **Macroeconomic Principles**, lecture and exercise class, Jönköping University
 
-    2023, spring term ([syllabus](files/syllabus_MP_2022.pdf), [evaluation](files/Evaluation_MP_2023.pdf))
+    2023, spring term ([syllabus](files/syllabus_MP_2022.pdf), [evaluation](files/Evaluation_MP_2023.pdf), *awarded highest student evaluations at JIBS, spring 2023*)
 
     2022, spring term ([syllabus](files/syllabus_MP_2022.pdf), [evaluation](files/Evaluation_MP_2022.pdf))
 
