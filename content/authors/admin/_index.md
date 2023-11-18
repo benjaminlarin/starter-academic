@@ -10,7 +10,7 @@ superuser: true
 authors:
   - admin
 title: Benjamin Larin
-role: Assistant Professor in Economics
+role: Senior Lecturer in Economics
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -46,7 +46,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am an Assistant Professor in Economics at Jönköping University in Sweden.
-<!-- I am on the job market 2020-21 and will be available for interviews at the EJM and the ASSA virtual meetings. -->
+I am a Senior Lecturer / Assistant Professor (with tenure) in Economics at Jönköping University in Sweden (*Universitetslektor*).
+
 
 Full {{% staticref "files/CV.pdf" %}}CV{{% /staticref %}}.
