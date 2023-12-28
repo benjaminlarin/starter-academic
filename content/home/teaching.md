@@ -1,4 +1,4 @@
----
+<!--
 title: Teaching
 summary:
 date: 2020-10-06
@@ -54,3 +54,5 @@ header:
     2017, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss20171.html))
 
     2016, summer term ([course page](https://www.wifa.uni-leipzig.de/itvwl/makro/lehre/archiv/ss120000.html))
+
+    -->
