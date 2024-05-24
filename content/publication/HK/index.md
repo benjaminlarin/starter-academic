@@ -3,7 +3,7 @@
 
 title: "Das House Kapital: A Long-Run Theory of House Prices and Housing Wealth"
 authors: ["Volker Grossmann, Benjamin Larin, Thomas Steger"]
-date: 2023-09-11T11:24:54+02:00
+date: 2024-09-11T11:24:54+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
