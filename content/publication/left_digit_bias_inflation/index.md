@@ -33,7 +33,8 @@ featured: false
 links:
 - name: Latest Version
   url: files/GL.pdf
-
+- name: EUROPP
+  url: "https://blogs.lse.ac.uk/europpblog/2024/09/30/how-left-digit-bias-and-the-competition-for-attention-affect-inflation/"
 
 url_pdf:
 url_code:
