@@ -3,11 +3,11 @@
 
 title: "Das House Kapital: A Long-Run Theory of House Prices and Housing Wealth"
 authors: ["Volker Grossmann, Benjamin Larin, Thomas Steger"]
-date: 2024-09-11T11:24:54+02:00
+date: 2025-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-06T11:24:54+02:00
+publishDate: 2025-04-06T11:24:54+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,12 +16,10 @@ publishDate: 2020-10-06T11:24:54+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted for publication in the <ins>***Journal of the European Economic Association***</ins>"
+publication: "<ins>***Journal of the European Economic Association***</ins>"
 publication_short: ""
 
-abstract: "Over the last 70 years, many advanced countries have experienced growing real house prices and an increasing housing wealth-to-income ratio. To explain these long-run patterns, this paper introduces a novel multi-sector growth model where housing services are produced using non-reproducible
-land and reproducible structures. Land is also employed in the non-housing sector. First, we identify two fundamental mechanisms driving the long-run
-increase in the real house price: i) technological progress in the construction sector lags behind the technological progress of the rest of the economy and ii) housing production is more land-intensive than non-housing production. Second, we study transitional dynamics for the US, UK, France, and Germany. Our calibrated model explains most of the observed increase in the housing wealth-to-income ratio since 1950. Counterfactual experiments identify initially low stocks of residential structures and non-residential capital as key exogenous drivers for this increase. The associated investment incentives led to a long-lasting construction boom and steadily increasing land scarcity, boosting residential land prices.
+abstract: "Over the last 70 years, many advanced countries have experienced growing real house prices and an increasing housing wealth-to-income ratio. To explain these long-run patterns, this paper introduces a novel multi-sector growth model where housing services are produced using non-reproducible land and reproducible structures. Land is also employed in the non-housing sector. First, we identify two fundamental mechanisms driving the long-run increase in the real house price: i) technological progress in the construction sector lags behind the technological progress of the rest of the economy and ii) housing production is more land-intensive than non-housing production. Second, we study transitional dynamics for the US, UK, France, and Germany. Our calibrated model explains most of the observed increase in the housing wealth-to-income ratio since 1950. Counterfactual experiments identify initially low stocks of residential structures and non-residential capital as key exogenous drivers for this increase. The associated investment incentives led to a long-lasting construction boom and steadily increasing land scarcity, boosting residential land prices.
   "
 
 # Summary. An optional shortened abstract.
