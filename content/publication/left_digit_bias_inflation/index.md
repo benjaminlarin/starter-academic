@@ -3,7 +3,7 @@
 
 title: "Left-Digit Bias in Household Inflation Expectations"
 authors: ["Marcel Garz, Benjamin Larin"]
-date: '2024-06-20'
+date: '2025-06-20'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper theoretically defines and empirically tests left-digit bias in household inflation expectations. Using cross-country data and a regression discontinuity design, we find that inflation expectations jump discontinuously when inflation crosses round-number thresholds, especially when inflation is rising. Media sensationalism is the primary channel through which these effects operate, as confirmed by instrumental variable estimates and a randomized controlled experiment. Embedding left-digit-biased expectations into a New Keynesian model reveals important macroeconomic and policy implications: weaker initial responses to shocks, prolonged inflationary periods, and the need for more persistent monetary policy."
+abstract: "People often process numbers in simplified ways. One such simplification is left-digit bias, the tendency to give more weight to the leftmost digit of a number. We study whether this bias affects how households process inflation numbers when forming inflation expectations. Using cross-country data and a regression discontinuity design, we show that expectations jump when inflation crosses round-number thresholds, particularly multiples of five, but only when inflation is rising. A randomized controlled trial confirms these findings. Embedding the bias in a New Keynesian model reveals weaker initial but more persistent responses to a cost-push shock, requiring more persistent monetary policy.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
