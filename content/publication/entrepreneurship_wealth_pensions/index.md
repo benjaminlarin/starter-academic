@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Taxing Housing Wealth? Not Such a Good Idea After All!"
-authors: ["Benjamin Larin"]
-date: '2020-10'
-doi: "" # https://doi.org/10.1515/pwp-2014-0005
+title: "Entrepreneurship, Wealth, and Pensions in Sweden"
+authors: ["Pavel Brendler, Johannes Hagen, Jonas Kolsrud, Benjamin Larin"]
+date: '2026-06-03'
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-03-01
+publishDate: 2026-06-03T00:00:00+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -30,9 +30,7 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: CESifo
-#  url: "https://www.cesifo.org/en/publikationen/2014/working-paper/fiscal-autonomy-and-fiscal-sustainability-subnational-taxation-and"
+links:
 
 url_pdf:
 url_code:
@@ -52,16 +50,8 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---

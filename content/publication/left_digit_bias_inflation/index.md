@@ -16,7 +16,7 @@ publishDate: 2020-10-06T11:24:54+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*revise and resubmit at the* <ins>***Journal of Monetary Economics***</ins>"
 publication_short: ""
 
 abstract: "People often process numbers in simplified ways. One such simplification is left-digit bias, the tendency to give more weight to the leftmost digit of a number. We study whether this bias affects how households process inflation numbers when forming inflation expectations. Using cross-country data and a regression discontinuity design, we show that expectations jump when inflation crosses round-number thresholds, particularly multiples of five, but only when inflation is rising. A randomized controlled trial confirms these findings. Embedding the bias in a New Keynesian model reveals weaker initial but more persistent responses to a cost-push shock, requiring more persistent monetary policy.
@@ -36,6 +36,8 @@ links:
   url: files/GL.pdf
 - name: EUROPP
   url: "https://blogs.lse.ac.uk/europpblog/2024/09/30/how-left-digit-bias-and-the-competition-for-attention-affect-inflation/"
+- name: NYT
+  url: "https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html"
 - name: Slides
   url: files/GL_slides.pdf
 

@@ -47,9 +47,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am an Assistant Professor (tenured, *Universitetslektor*) in Economics at Jönköping University, Sweden, holding a tenured position.
+I am an Assistant Professor (*Universitetslektor*) in Economics at Jönköping University, Sweden, holding a tenured position.
 <!-- I am a Senior Lecturer / Assistant Professor (with tenure) in Economics at Jönköping University in Sweden (*Universitetslektor*). -->
-
-**News:** I am delighted to have been chosen as the Teacher of the Year 2023 by students at Jönköping International Business School. I have also been awarded funding from the Hamrin Foundation for a three-year research project with Mathias Klein, investigating firm pricing, leverage, and monetary policy.
 
 {{% staticref "files/CV.pdf" %}}CV{{% /staticref %}}

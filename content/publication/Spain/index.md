@@ -3,7 +3,7 @@
 
 title: "Fiscal Autonomy and Fiscal Sustainability: Subnational Taxation and Public Indebtedness in Contemporary Spain"
 authors: ["Benjamin Larin, Bernd Süßmuth"]
-date: '2014-03'
+date: '2014-03-01'
 doi: "" # https://doi.org/10.1515/pwp-2014-0005
 
 # Schedule page publish date (NOT publication's date).

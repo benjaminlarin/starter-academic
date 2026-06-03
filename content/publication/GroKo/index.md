@@ -3,7 +3,7 @@
 
 title: "Was bringt uns die große Koalition? Perspektiven der Wirtschaftspolitik"
 authors: ["Björn Kauder, Benjamin Larin, Niklas Potrafke"]
-date: '2014-01'
+date: '2014-01-01'
 doi: "" # https://doi.org/10.1515/pwp-2014-0005
 
 # Schedule page publish date (NOT publication's date).
