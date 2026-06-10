@@ -3,7 +3,7 @@
 
 title: "Left-Digit Bias in Household Inflation Expectations"
 authors: ["Marcel Garz, Benjamin Larin"]
-date: '2025-06-20'
+date: '2026-06-09'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
